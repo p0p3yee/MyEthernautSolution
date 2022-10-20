@@ -6,4 +6,4 @@ hello ethernaut just follow the instruction and you will solve the level
 
 fallback just contribute 1 wei then send 1 wei to the contract
 
-fallout just call Fal1out()
+fallout just call `Fal1out()`
